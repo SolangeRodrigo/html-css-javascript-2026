@@ -7,9 +7,9 @@
 
 | Campo | Dato |
 |-------|------|
-| **Nombre y Apellido** | |
-| **Legajo** | |
-| **Correo electrónico** | |
+| **Nombre y Apellido** | Solange Abigail Rodrigo |
+| **Legajo** | 33164 |
+| **Correo electrónico** | solangeabigailrodrigo@gmail.com |
 
 ---
 
