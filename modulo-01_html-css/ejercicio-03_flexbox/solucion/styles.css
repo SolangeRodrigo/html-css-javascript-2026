@@ -1,4 +1,4 @@
-/* TP-CHECK: 1.3 | Rodrigo-Solange | flex-wrap hace: hace que los elementos pasen a una nueva fila cuando no hay lugar en ese contenedor. */
+/* TP-CHECK: 1.3 | Rodrigo-Solange | flex-wrap hace: Permite que los elementos dentro de un contenedor se acomoden en varias líneas cuando no entran en una sola fila, para evitar que se desborden el contenedor.*/
 
 /* REQ-1.3.11 */
 :root {
