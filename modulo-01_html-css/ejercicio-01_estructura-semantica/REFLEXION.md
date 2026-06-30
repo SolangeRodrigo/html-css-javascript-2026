@@ -1,8 +1,4 @@
-# REFLEXION — Ejercicio 1.1: Estructura Semántica HTML
-
-> **Instrucciones:** Completá este archivo DESPUÉS de terminar tu solución. Escribí con tus propias palabras. Respuestas copiadas de internet o generadas por IA sin elaboración propia no son válidas.
->
-> Tiempo esperado para completar esta reflexión: 20–30 minutos.
+# REFLEXION — Ejercicio [01]: [ESTRUCTURA-SEMANTICA]
 
 ---
 

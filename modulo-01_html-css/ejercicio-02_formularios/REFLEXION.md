@@ -1,6 +1,4 @@
-# REFLEXION — Ejercicio 1.2: Formularios Accesibles
-
-> **Instrucciones:** Reemplazá `[02]` y `[Ejercicio02-Formularios]` con el número y nombre del ejercicio correspondiente. Completá este archivo DESPUÉS de terminar tu solución. Escribí con tus propias palabras.
+# REFLEXION — Ejercicio [02]: [FORMULARIOS]
 
 ---
 

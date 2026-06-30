@@ -1,6 +1,4 @@
-# REFLEXION — Ejercicio [NÚMERO]: [NOMBRE]
-
-> **Instrucciones:** Reemplazá `[NÚMERO]` y `[NOMBRE]` con el número y nombre del ejercicio correspondiente. Completá este archivo DESPUÉS de terminar tu solución. Escribí con tus propias palabras.
+# REFLEXION — Ejercicio [03]: [FLEXBOX]
 
 ---
 
