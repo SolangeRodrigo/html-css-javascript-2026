@@ -1,0 +1,120 @@
+/* TP-CHECK: 1.2 | Rodrigo-Solange | un label explícito con for es importante porque: permite asociar correctamente el texto con el campo y mejorar accesibilidad para lectores de pantalla */
+
+input:not([type="radio"]):not([type="checkbox"]), select, textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* REQ-1.2.10: focus visible (rosa accesible) */
+input:focus,
+select:focus,
+textarea:focus {
+    outline: 2px solid #ff2d95;
+}
+
+/* REQ-1.2.9: hover (rosa suave con contraste) */
+input:hover,
+select:hover,
+textarea:hover {
+    border: 1px solid #c2185b;
+}
+
+/* REQ-1.2.9: disabled */
+input:disabled,
+select:disabled,
+textarea:disabled {
+    background-color: #eee;
+}
+
+/* REQ-1.2.8 + REQ-1.2.9: valid (verde sigue siendo lo más accesible) */
+input:valid,
+select:valid,
+textarea:valid {
+    border: 2px solid #2e7d32;
+}
+
+/* REQ-1.2.8 + REQ-1.2.9: invalid (rosa/rojo accesible) */
+input:invalid,
+select:invalid,
+textarea:invalid {
+    border: 2px solid #d81b60;
+}
+
+/* REQ-1.2.5: indicador visual de campo requerido */
+.required {
+    color: #d81b60;
+    font-weight: bold;
+}
+
+/* REQ-1.2.11: mensaje de error asociado por aria-describedby.
+   Oculto por defecto, visible solo cuando el campo está :invalid.
+   El span tiene que ser el siguiente elemento al input/select/textarea en el HTML. */
+.error-message {
+    display: none;
+    color: #d81b60;
+    font-size: 0.85em;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
+
+input:invalid + .error-message,
+select:invalid + .error-message,
+textarea:invalid + .error-message {
+    display: block;
+}
+
+/* No mostrar el error hasta que el usuario haya tocado el campo */
+input:invalid:placeholder-shown + .error-message,
+textarea:invalid:placeholder-shown + .error-message {
+    display: none;
+}
+
+/* CSS COMPLEMENTARIO PARA PONERLE ONDA..*/
+body {
+    font-family: Arial, sans-serif;
+    background-color:  #f7a1c3;
+    margin: 0;
+    padding: 20px;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+input:not([type="radio"]):not([type="checkbox"]), select, textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+fieldset {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 5px;
+}
+
+footer {
+     background-color:  #b05177;
+     text-align: center;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+main h1,
+main > p {
+    text-align: center;
+}
