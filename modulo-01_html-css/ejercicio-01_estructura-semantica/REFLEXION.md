@@ -25,7 +25,7 @@ Respondé cada pregunta. Las respuestas deben ser tuyas. Podés investigar, pero
 
 ### 2.1 — ¿Cuál es la diferencia entre `<section>` y `<article>`? ¿Cuándo usarías cada uno?
 
-> ✏️ **Tu respuesta: Si lo vemos desde el lado humano, es como un diario o una revista. Hay una portada con distintas noticias, pero cada noticia completa sería un <article>, ya que se puede leer e interpretar por sí sola. Dentro de esa noticia, podemos encontrar distintas partes o temas, y ahí es donde usaríamos <section> para dividir la información en secciones más organizadas.**
+> ✏️ **Tu respuesta: Si lo vemos desde el lado humano, es como un diario o una revista. Hay una portada con distintas noticias, pero cada noticia completa sería un <.article>, ya que se puede leer e interpretar por sí sola. Dentro de esa noticia, podemos encontrar distintas partes o temas, y ahí es donde usaríamos <.section> para dividir la información en secciones más organizadas.**
 
 ---
 
