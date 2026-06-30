@@ -92,10 +92,9 @@ fieldset {
     padding: 10px;
 }
 
-nav {
+header nav {
     display: flex;
     gap: 10px;
-    margin-bottom: 20px;
 }
 
 input {
@@ -109,9 +108,8 @@ footer {
 
 header {
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
-    text-align: center;
 }
 
 main h1,
