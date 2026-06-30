@@ -63,7 +63,7 @@ Respondé cada pregunta. Las respuestas deben ser tuyas. Podés investigar, pero
 </div>
 ```
 
-> ✏️ **Tu respuesta: A simple vista veo el < div class="navigation">, se utiliza cuando usas un <nav> y a lo largo del codigo no lo utiliza.**
+> ✏️ **Tu respuesta: A simple vista veo el < div class="navigation " >, se utiliza cuando usas un < nav> y a lo largo del codigo no lo utiliza.**
 
 ---
 
@@ -71,13 +71,13 @@ Respondé cada pregunta. Las respuestas deben ser tuyas. Podés investigar, pero
 
 ### 3.1 — ¿Qué etiqueta usaste para el logo y por qué? ¿Hay alternativas?
 
-> ✏️ **Tu respuesta: Use < img>, creeria que se puede tambien un <a href> para que pueda hacer click. No se si existen otras maneras.**
+> ✏️ **Tu respuesta: Use < img>, creeria que se puede tambien un < a href> para que pueda hacer click. No se si existen otras maneras.**
 
 ---
 
 ### 3.2 — ¿Elegiste `<ul>` u `<ol>` para tu lista? ¿Por qué esa y no la otra?
 
-> ✏️ **Tu respuesta: No sabia que existia < ol>, busque y vi que es para secuencias que si o si requieren un orden predeterminado, < ul> es para ordenar contenido de manera mas general tipo lista.**
+> ✏️ **Tu respuesta: No sabia que existia <. ol>, busque y vi que es para secuencias que si o si requieren un orden predeterminado, <. ul> es para ordenar contenido de manera mas general tipo lista.**
 
 ---
 
@@ -100,7 +100,7 @@ Marcá con una `x` lo que corresponda:
 
 *Si usaste IA, describí brevemente cómo:*
 
-> ✏️ **Tu respuesta (opcional si no usaste IA): la verdad no sabia lo de < ol> y lo busque por ahi, es lo mismo que buscarlo en google porque tambien tiene IA la respuesta.**
+> ✏️ **Tu respuesta (opcional si no usaste IA): la verdad no sabia lo de <. ol> y lo busque por ahi, es lo mismo que buscarlo en google porque tambien tiene IA la respuesta.**
 
 ---
 
